@@ -1,0 +1,17 @@
+# Project Name: wirelesspt_mac-info
+
+# Recompilar o executavel que se encontra na directoria bin/ com as novas alterações do script .tsh
+
+# Incluir funcionalidade ssmtp no executável a fim que este envie automáticamente o ficheiro com a 
+  Informação necessária para o registo de rede assim seja executado sem que o utilizador o tenha de 
+  fazer manualemente para facilitar a tarefa aos utilizadores menos técnicos.
+  Este email será enviado de um endereço wirelesspt.net pré existente no executável e para um endereço
+  de suporte do projecto.
+  
+# Desenvolver uma versão linux do mesmo script 
+
+# Desenvolver uma versão web/java do mesmo script
+
+// cmsv (at) wirelesspt (dot) net
+
+EOF;
