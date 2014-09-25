@@ -10,16 +10,16 @@
 # Version: 0.1 (beta)
 
 
-Este script executa parametros necessários para obter toda a informação 
-necessária para de um utilizador e seu hardware de rede a fim de poder
-registar definitivamente acesso do seu computador na rede wirelesspt.net
+Este script executa os parametros necessários para obter toda a informação 
+de rede necessária de um utilizador e seu hardware de rede a fim de poder
+registar definitivamente o acesso do seu computador na rede wirelesspt.net
 
-Após a execução do ficheiro .exe será produzido um ficheiro de texto que 
-se encontrara no ambiente de Trabalho (Desktop).
+Após a execução do ficheiro wirelesspt_mac_info-1.0.exe, será produzido um 
+ficheiro de texto que se encontrará no ambiente de Trabalho (Desktop).
 
 Após completar este questionário o utilizador deverá:
 1. Gravar este ficheiro
-2. Envia-lo por e-mail para: suporte@wirelesspt.net
+2. Envia-lo por e-mail para: suporte@wirelesspt.net ou ao seu administrador local
 
    (Poderá enviar o ficheiro como anexo ou então seleccionar
     todo o conteúdo, copiá-lo e colá-lo no corpo do e-mail)
